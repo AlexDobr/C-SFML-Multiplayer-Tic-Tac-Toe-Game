@@ -1,0 +1,22 @@
+﻿  MainMenuState.cpp
+c:\users\alex\desktop\tictactoe\tictactoe\mainmenustate.cpp(38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  GameState.cpp
+c:\users\alex\desktop\tictactoe\tictactoe\gamestate.cpp(64): warning C4018: '<': signed/unsigned mismatch
+c:\users\alex\desktop\tictactoe\tictactoe\gamestate.cpp(470): warning C4018: '<': signed/unsigned mismatch
+c:\users\alex\desktop\tictactoe\tictactoe\gamestate.cpp(486): warning C4018: '<': signed/unsigned mismatch
+c:\users\alex\desktop\tictactoe\tictactoe\gamestate.cpp(498): warning C4018: '<': signed/unsigned mismatch
+c:\users\alex\desktop\tictactoe\tictactoe\gamestate.cpp(508): warning C4018: '<': signed/unsigned mismatch
+c:\users\alex\desktop\tictactoe\tictactoe\gamestate.cpp(522): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+c:\users\alex\desktop\tictactoe\tictactoe\gamestate.cpp(551): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  ConnectingState.cpp
+  Generating Code...
+  Compiling...
+  main.cpp
+  StateMachine.cpp
+  SplashState.cpp
+  PauseState.cpp
+  GameOverState.cpp
+  Game.cpp
+  AssetManager.cpp
+  Generating Code...
+  TicTacToe.vcxproj -> C:\Users\Alex\Desktop\TicTacToe\Debug\TicTacToe.exe

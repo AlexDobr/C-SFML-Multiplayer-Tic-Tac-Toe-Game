@@ -1,0 +1,13 @@
+﻿  stdafx.cpp
+  AssetManager.cpp
+  Game.cpp
+  InputManager.cpp
+InputManager.cpp(21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+InputManager.cpp(21): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+  main.cpp
+  SplashState.cpp
+  StateMachine.cpp
+  Generating code
+  All 450 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  TicTacToe.vcxproj -> C:\Users\Alex\Desktop\TicTacToe\Release\TicTacToe.exe
